@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Muslim Matrimony",
+    "image": "/reference/uae-yearof.jpg",
+    "description": "Welcome to the Year of Sustainability. Sustainability is about protecting our land, resources and one another today, for a better tomorrow.",
+    "url": "",
+    "date": "2023",
+    "service": "Frontend Development",
+    "color": {
+      "h": "30",
+      "s": "100%",
+      "l": "90%"
+    }
+  },
+  {
+    "title": "Open Masti",
+    "image": "/reference/rqitects.jpg",
+    "description": "Premier design studio and architecture company in the UAE. Enhance your projects with our top architects, leading the way in innovative and timeless design solutions.",
+    "url": "",
+    "date": "2024",
+    "service": "Development",
+    "color": {
+      "h": "0",
+      "s": "0%",
+      "l": "0%"
+    }
+  },
+  {
+    "title": "NK2it",
+    "image": "/reference/fintx.jpg",
+    "description": "FINTX is the fintech arm of the Emirates Post Group, with the vision of building a fintech ecosystem for the UAE & beyond.",
+    "url": "",
+    "date": "2024",
+    "service": "Development",
+    "color": {
+      "h": "70",
+      "s": "100%",
+      "l": "50%"
+    }
+  }
+]

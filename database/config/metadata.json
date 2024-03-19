@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "name": "Dr.Proton",
+    "title": "Dr.Proton",
+    "description": "We develop accessible, responsive, interactive, and animated websites with a strong focus on performance.",
+    "timeZone": "Asia/Kolkata",
+    "locale": "en-IN"
+  },
+  "personal": {
+    "name": "Dr.Proton",
+    "surname": "Tech & Solutions",
+    "role": "IT company",
+    "experience": 2,
+    "email": "dr.protonofficial@gmail.com",
+    "phone": "+12538316296",
+    "city": "Kolkata",
+    "state": "WB",
+    "country": "IN",
+    "username": "dr.protonofficial@gmail.com",
+    "resumeURL": "dr.protonofficial@gmail.com"
+  },
+  "social": {
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "github": "",
+    "codepen": ""
+  },
+  "content": {
+    "verse": ""
+  }
+}
